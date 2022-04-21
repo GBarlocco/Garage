@@ -56,7 +56,7 @@ Para ver el proeycto completo dirigirse al documento "Obligatorio 2 - Taller de 
 ## Author
 > <p>Tatiana Mostovaya</p>
 > <p>Guillermo López</p>
-> <p>Gast�n Barlocco. </p>
+> <p>Gastón Barlocco. </p>
 
 
 ## Extra
