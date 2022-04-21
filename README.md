@@ -2,16 +2,17 @@
 
 ## Obligatorio N°2 - Proyecto Arduino.
 
-1) Introducción.
+### 1) Introducción.
+
 Pensando en la cantidad de estacionamientos manuales y antiguos existentes en Montevideo, se nos ocurrió la idea de mejorar, modernizar y actualizar su automatismo para hacerlo más prácticos y útiles adaptándolos a los tiempos que corren.
 
-2) Descripción del sistema actual.
+### 2) Descripción del sistema actual.
 Al hablar de un estacionamiento manual, básico, convencional, nos estamos refiriendo a los siguientes puntos:
 - El ingreso y la salida del cliente se realiza con apertura de puerta/barrera manual.
 - La iluminación interna y externa se comanda mediante una llave ON/OFF.
 - El cliente no puede visualizar ningún aviso de lugares disponibles, entonces, se generan pérdidas de tiempo a la hora de buscar estacionar un vehículo en zonas transitadas.
 
-3) Propuesta de solución.
+### 3) Propuesta de solución.
 A continuación, presentaremos la automatización completa del estacionamiento, para ello se tendrán en cuenta los siguientes puntos:
 
  - Se instalará un panel principal al frente del garaje para indicar la cantidad de lugares disponibles, también mostrará la temperatura actual. Las luces frontales se encenderán con ausencia de luz.
@@ -22,7 +23,7 @@ A continuación, presentaremos la automatización completa del estacionamiento, 
 
 - La salida de los vehículos se realizará de la misma manera que la entrada (pulsador + sensor + barrera), cuando se confirme la salida efectiva de un vehículo se incrementarán los lugares disponibles.
 
-4) Listado de materiales:
+### 4) Listado de materiales:
 - 1- Arduino MEGA.
 - 2- Pulsadores.
 - 2- Servomotores – SG90
@@ -40,7 +41,7 @@ A continuación, presentaremos la automatización completa del estacionamiento, 
 - 1- Protoboard
 - Cables.
 
-5) Mas información...
+### 5) Mas información...
 Para ver el proeycto completo dirigirse al documento "Obligatorio 2 - Taller de tecnologías .pdf"
 
 ## Universidad
